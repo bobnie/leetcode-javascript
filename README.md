@@ -1,7 +1,7 @@
 # leetcode-javascript
 用javascript刷LeetCode
 
-                                                                        Practice
+Practice
 打卡1
 LeetCode完成第22题 (括号生成)- 2018-8-9-10:49
 打卡2
