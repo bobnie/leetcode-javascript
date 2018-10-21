@@ -1,7 +1,7 @@
 # leetcode-javascript
 用javascript刷LeetCode
 
-Practice
+                                                                        Practice
 打卡1
 LeetCode完成第22题 (括号生成)- 2018-8-9-10:49
 打卡2
@@ -160,4 +160,3 @@ LeetCode完成第144题(二叉树的前序遍历) -2018-10-20-3:21
 LeetCode完成第139题(单词拆分) -2018-10-20-4:23
 打卡79
 LeetCode完成第134题(加油站) -2018-10-21-3:54
-
